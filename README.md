@@ -1,5 +1,5 @@
-#This is tutorial
+# This is tutorial
 
 site:google.com
 
-filetype:jpg
+filetype:php
