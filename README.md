@@ -2,3 +2,4 @@
 
 site:google.com
 
+filetype:jpg
