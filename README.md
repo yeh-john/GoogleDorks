@@ -7,3 +7,7 @@ filetype:php
 inurl:wp-admin
 
 intext:admin
+
+
+## More info
+https://www.exploit-db.com/google-hacking-database
